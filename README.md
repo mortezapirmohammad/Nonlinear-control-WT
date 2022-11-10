@@ -3,4 +3,4 @@ In this repository, The nonlinear control for a wind turbine driven by a variabl
 This system is based on the following paper:
 
 "مدلسازي غیرخطی توربین بادي ديزباد و کنترل آن براساس کنترگر فیدبک بهینه تصادفی مجله کنترل"
- , SIDحمید خالو زاده، مسعود اکبري ثانی - 1
+ 1387 ,SID ,حمید خالو زاده، مسعود اکبري ثانی 
